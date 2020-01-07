@@ -5,6 +5,7 @@
 body {
     margin: 0;
     display: flex;
+    font-family: 'Roboto', sans-serif;
 }
 
 .left-side {
@@ -34,6 +35,7 @@ body {
 
 .preview-box-img:hover {
     cursor: pointer;
+    opacity: 0.7;
 }
 
 .right-side {
